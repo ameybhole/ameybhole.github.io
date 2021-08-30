@@ -40,11 +40,9 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "amey.bhole77@gmail.com"
-  facebook: deanattali
   github: ameybhole
   twitter: daattali
-  patreon: DeanAttali
-  youtube: c/daattali
+  google-scholar: M49hGRMAAAAJ&hl=en
 #  medium: yourname
 #  reddit: yourname
 #  linkedin: daattali
@@ -61,8 +59,7 @@ social-network-links:
 #  calendly: yourname
 #  mastodon: instance.url/@username
 #  ORCID: your ORCID ID
-  google-scholar: https://scholar.google.com/citations?user=M49hGRMAAAAJ&hl=en
-
+  
 # If you want to show a link to an RSS in the footer, add the site description here.
 # If you don't want to show an RSS link, remove the following line.
 rss-description: This website is a virtual proof that I'm awesome
