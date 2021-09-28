@@ -14,9 +14,9 @@ author: Amey Bhole
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
   Publications: "publications"
   Projects: "projects"
+  Teachings: "teachings"
   Resume/CV: ""
 #   Resources:
 #     - Beautiful Jekyll: "https://beautifuljekyll.com"
