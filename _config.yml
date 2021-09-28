@@ -17,6 +17,7 @@ navbar-links:
   About Me: "aboutme"
   Publications: ""
   Projects: ""
+  Resume/CV: ""
 #   Resources:
 #     - Beautiful Jekyll: "https://beautifuljekyll.com"
 #     - Learn markdown: "https://www.markdowntutorial.com/"
@@ -42,11 +43,10 @@ round-avatar: true
 social-network-links:
   email: "amey.bhole77@gmail.com"
   github: ameybhole
-  twitter: daattali
   google-scholar: citations?user=M49hGRMAAAAJ&hl=en
-#  medium: yourname
+  linkedin: amey-bhole
+#  medium: yournam
 #  reddit: yourname
-#  linkedin: daattali
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
