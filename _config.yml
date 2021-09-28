@@ -15,8 +15,8 @@ author: Amey Bhole
 
 navbar-links:
   About Me: "aboutme"
-  Publications: ""
-  Projects: ""
+  Publications: "publications"
+  Projects: "projects"
   Resume/CV: ""
 #   Resources:
 #     - Beautiful Jekyll: "https://beautifuljekyll.com"
@@ -63,7 +63,7 @@ social-network-links:
   
 # If you want to show a link to an RSS in the footer, add the site description here.
 # If you don't want to show an RSS link, remove the following line.
-rss-description: This website is a virtual proof that I'm awesome
+#rss-description: This website is a virtual proof that I'm awesome
 
 # --- General options --- #
 
@@ -82,10 +82,10 @@ url-pretty: "Amey Bhole"
 excerpt_length: 50
 
 # Whether or not to show an excerpt for every blog post in the feed page
-feed_show_excerpt: true
+#feed_show_excerpt: true
 
 # Whether or not to show a list of tags below each post preview in the feed page
-feed_show_tags: true
+#feed_show_tags: true
 
 # Add a search button to the navbar
 post_search: true
