@@ -9,4 +9,4 @@ International Conference on Computer Analysis of Images and Patterns (2019) <spa
   
 <a class="btn btn-primary btn-outline btn-xs" href="https://link.springer.com/chapter/10.1007/978-3-030-29891-3_10" target="_blank" rel="noopener">PDF</a>
 <a class="btn btn-primary btn-outline btn-xs" href="https://github.com/ameybhole/IIHC" target="_blank" rel="noopener">Code</a>
-<a class="btn btn-primary btn-outline btn-xs" href="https://scholar.googleusercontent.com/scholar.bib?q=info:eR4OU4CbxWkJ:scholar.google.com/&output=citation&scisdr=CgXmXetuEISxw63ylvU:AAGBfm0AAAAAYVP3jvUPIMXZYlQKKSIZmT6IkeMkE0QO&scisig=AAGBfm0AAAAAYVP3juRKL6Cg57kEHYSak2DaUdppyiDo&scisf=4&ct=citation&cd=-1&hl=en&scfhb=1" target="_blank" rel="noopener">BibTeX</a>
+<a class="btn btn-primary btn-outline btn-xs" href="https://scholar.googleusercontent.com/scholar.bib?q=info:eR4OU4CbxWkJ:scholar.google.com/&output=citation&scisdr=CgXmXetuEISxw6oNifE:AAGBfm0AAAAAYVQIkfG5_0EENupwvKzar5i3FVZL8tcW&scisig=AAGBfm0AAAAAYVQIkQ7GYoge_rIv2Nsf4vr_D60rBGIK&scisf=4&ct=citation&cd=-1&hl=en&scfhb=1" target="_blank" rel="noopener">BibTeX</a>
