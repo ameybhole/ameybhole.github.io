@@ -2,12 +2,12 @@
 layout: page
 title: Projects
 ---
-<table width="150%" align="center" border="0" cellspacing="0" cellpadding="0">
+<table width="100%" align="center" border="0" cellspacing="0" cellpadding="0">
  <tr>
             <td>
                 <img src='https://raw.githubusercontent.com/ameybhole/ameybhole.github.io/master/assets/img/ml_project.png' width="100%">
             </td>
-            <td valign="middle" width="85%">
+            <td valign="middle" width="75%">
               <a href="https://github.com/ameybhole/CAIIHC">
                 <papertitle>Comparative analysis of individual identification of Holstein cattle</papertitle>
               </a>
