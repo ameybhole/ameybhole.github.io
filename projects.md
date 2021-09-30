@@ -5,7 +5,7 @@ title: Projects
 
  <tr>
             <td>
-                <img src='images/data_aug.jpg' width="100%">
+                <img src='https://github.com/ameybhole/ameybhole.github.io/blob/master/assets/img/ml_project.png' width="10%">
             </td>
             <td valign="middle" width="75%">
               <a href="https://github.com/ameybhole/CAIIHC">
