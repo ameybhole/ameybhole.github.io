@@ -2,34 +2,7 @@
 layout: page
 title: Projects
 ---
-<head>
-  <style>
-    table,th,td
-    {
-      border:2px solid black;
-    }
-    table
-    {
-      border-collapse:collapse;
-      width:20%;
-    }
-<!--     td
-    {
-      height:40px;
-    }
-    tr
-    {
-      background-color:green;
-      color:white;
-    }
-    th
-    {
-      background-color:yellow;
-      color:black;
-    } -->
-  </style>
-  </head>
-<table background-color: #000000 width="100%" align="center" border="0" cellspacing="0" cellpadding="0">
+<table width="100%" align="center" border="0" cellspacing="0" cellpadding="0">
  <tr>
             <td>
                 <img src='https://raw.githubusercontent.com/ameybhole/ameybhole.github.io/master/assets/img/ml_project.png' width="100%">
