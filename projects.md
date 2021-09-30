@@ -97,7 +97,8 @@ title: Projects
               <br>
               <em>Software Architecture Project</em>, 2019         
               <br>
-              <a href="https://github.com/ameybhole/ameybhole.github.io/blob/master/docs/Software_Architecture___SmartFarming.pdf">pdf</a>
+              <a href="https://github.com/ameybhole/ameybhole.github.io/blob/master/docs/Software_Architecture___SmartFarming.pdf">pdf</a> /
+              <a href="https://github.com/ameybhole/ameybhole.github.io/blob/master/docs/Software_Architecture___Presentation_2.pdf">slides</a>
               <p>Design and development of smart systems for livestock production and management</p>
             </td>
 </tr>
