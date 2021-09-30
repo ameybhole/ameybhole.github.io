@@ -23,4 +23,24 @@ title: Projects
               <p>Comparison of CNN models pre-trained on ms-celeb 1million and ImageNet data set for individual identification of Holstein cattle.</p>
             </td>
 </tr>
+  <tr>
+            <td>
+                <img src='https://cdn.inblog.in/user/uploads/FInGVjDaCqSMxr1SobnLqxATOTSOz2.png' width="100%">
+            </td>
+            <td valign="middle" width="75%">
+              <a href="https://github.com/ameybhole/Predicting-hospital-readmission">
+                <papertitle>Hospital readmission of diabetic patients</papertitle>
+              </a>
+              <br>
+              <strong>Amey Bhole</strong>,
+              <a>Martin Dijkhuizen</a>,
+              <a>Ilyas Aaqaoui</a>,
+              <a>Tos Sambo</a>,
+              <br>
+              <em>Machine Learning Project</em>, 2017         
+              <br>
+              <a href="https://github.com/ameybhole/Predicting-hospital-readmission">code</a>
+              <p>Predict hospital readmission of diabetic patients using bagging based ensemble technique</p>
+            </td>
+</tr>
 </table>
