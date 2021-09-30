@@ -102,4 +102,23 @@ title: Projects
               <p>Design and development of smart systems for livestock production and management</p>
             </td>
 </tr>
+      <tr>
+            <td>
+                <img src='https://raw.githubusercontent.com/ameybhole/ameybhole.github.io/master/assets/img/Q4-12.png' width="100%">
+            </td>
+            <td valign="middle" width="75%">
+              <a href="https://github.com/ameybhole/ameybhole.github.io/blob/master/docs/Practical_Report___Visual_Analytics_for_Big_Data.pdf">
+                <papertitle>Visual Analysis of Crime Data</papertitle>
+              </a>
+              <br>
+              <strong>Amey Bhole</strong>,
+              <a>Marios Lykiardopoulos</a>
+              <br>
+              <em>Visual Analytics for Big Data Project</em>, 2018         
+              <br>
+              <a href="https://github.com/ameybhole/ameybhole.github.io/blob/master/docs/Practical_Report___Visual_Analytics_for_Big_Data.pdf">pdf</a> /
+              <a href="https://public.tableau.com/app/profile/amey.bhole">visualizations</a>
+              <p>Analysis of geographical, temporal, classification and resolution speed of incident across Seattle using visualization tool Tableau.</p>
+            </td>
+</tr>
 </table>
