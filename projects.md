@@ -2,7 +2,7 @@
 layout: page
 title: Projects
 ---
-<table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
+<table width="200%" align="center" border="0" cellspacing="0" cellpadding="20">
  <tr>
             <td>
                 <img src='https://github.com/ameybhole/ameybhole.github.io/blob/master/assets/img/ml_project.png' width="75%">
