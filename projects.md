@@ -3,8 +3,8 @@ layout: page
 title: Projects
 ---
 
-<table style="background-color:#000000;" width="100%" align="center" border="0" cellspacing="0" cellpadding="0">
- <tr bgcolor="#000000">
+<table width="100%" align="center" border="0" cellspacing="0" cellpadding="0">
+ <tr>
             <td>
                 <img src='https://raw.githubusercontent.com/ameybhole/ameybhole.github.io/master/assets/img/ml_project.png' width="100%">
             </td>
@@ -24,7 +24,7 @@ title: Projects
               <p>Comparison of CNN models pre-trained on ms-celeb 1million and ImageNet data set for individual identification of Holstein cattle.</p>
             </td>
 </tr>
-  <tr bgcolor="#000000">
+  <tr>
             <td>
                 <img src='https://cdn.inblog.in/user/uploads/FInGVjDaCqSMxr1SobnLqxATOTSOz2.png' width="100%">
             </td>
@@ -44,7 +44,7 @@ title: Projects
               <p>Predict hospital readmission of diabetic patients using bagging based ensemble technique</p>
             </td>
 </tr>
-   <tr bgcolor="#000000">
+   <tr>
             <td>
                 <img src='https://raw.githubusercontent.com/ameybhole/ameybhole.github.io/master/assets/img/ScalableComputing.png' width="100%">
             </td>
@@ -63,7 +63,7 @@ title: Projects
               <p>Developed a scalable model for music recommendation system using combination of alternating least squares algorithm and global baseline approach</p>
             </td>
 </tr>
-    <tr bgcolor="#000000">
+    <tr>
             <td>
                 <img src='https://raw.githubusercontent.com/ameybhole/ameybhole.github.io/master/assets/img/image002.jpg' width="100%">
             </td>
@@ -81,7 +81,7 @@ title: Projects
               <p>Implemented a number of visualization algorithms to a fluid flow simulation - allowing the end user to interact and filter the visualization to their desired goal via a Graphical User Interface (GUI)</p>
             </td>
 </tr>
-     <tr bgcolor="#000000">
+     <tr>
             <td>
                 <img src='https://raw.githubusercontent.com/ameybhole/ameybhole.github.io/master/assets/img/farmolution-high-level-design-solution.png' width="100%">
             </td>
@@ -103,7 +103,7 @@ title: Projects
               <p>Design and development of smart systems for livestock production and management</p>
             </td>
 </tr>
-      <tr bgcolor="#000000">
+      <tr>
             <td>
                 <img src='https://raw.githubusercontent.com/ameybhole/ameybhole.github.io/master/assets/img/Q4-12.png' width="100%">
             </td>
