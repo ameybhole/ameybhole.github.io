@@ -3,10 +3,7 @@ layout: page
 title: Projects
 ---
 
-<table width="100%" align="center" border="0" cellspacing="0" cellpadding="0">
- <colgroup>
-    <col style="background-color: #000000">
- </colgroup>
+<table width="100%" align="center" border="0" cellspacing="0" cellpadding="0" bgcolor="black">
  <tr>
             <td>
                 <img src='https://raw.githubusercontent.com/ameybhole/ameybhole.github.io/master/assets/img/ml_project.png' width="100%">
