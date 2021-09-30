@@ -15,7 +15,7 @@ title: Projects
               <strong>Amey Bhole</strong>,
               <a>Steven Farrugia</a>,
               <a>Hichem Bouakaz</a>,
-              <a>Kyprianos Isaakidis</a>,
+              <a>Kyprianos Isaakidis</a>
               <br>
               <em>Machine Learning Project</em>, 2018         
               <br>
@@ -35,12 +35,31 @@ title: Projects
               <strong>Amey Bhole</strong>,
               <a>Martin Dijkhuizen</a>,
               <a>Ilyas Aaqaoui</a>,
-              <a>Tos Sambo</a>,
+              <a>Tos Sambo</a>
               <br>
               <em>Machine Learning Project</em>, 2017         
               <br>
               <a href="https://github.com/ameybhole/Predicting-hospital-readmission">code</a>
               <p>Predict hospital readmission of diabetic patients using bagging based ensemble technique</p>
+            </td>
+</tr>
+   <tr>
+            <td>
+                <img src='https://raw.githubusercontent.com/ameybhole/ameybhole.github.io/master/assets/img/ScalableComputing.png' width="100%">
+            </td>
+            <td valign="middle" width="75%">
+              <a href="https://github.com/ameybhole/Music-recommendation-system">
+                <papertitle>Music recommendation System</papertitle>
+              </a>
+              <br>
+              <strong>Amey Bhole</strong>,
+              <a>Marios Lykiardopoulos</a>,
+              <a>Orestis Divintari</a>,
+              <br>
+              <em>Scalable Computing Project</em>, 2018         
+              <br>
+              <a href="https://github.com/ameybhole/Predicting-hospital-readmission">code</a>
+              <p>Developed a scalable model for music recommendation system using combination of alternating least squares algorithm and global baseline approach</p>
             </td>
 </tr>
 </table>
