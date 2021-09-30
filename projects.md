@@ -22,5 +22,5 @@ title: Projects
               <a href="https://github.com/ameybhole/CAIIHC">code</a>
               <p>Comparison of CNN models pre-trained on ms-celeb 1million and ImageNet data set for individual identification of Holstein cattle.</p>
             </td>
-          </tr>
+</tr>
 </table>
