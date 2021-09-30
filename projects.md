@@ -5,7 +5,7 @@ title: Projects
 <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
  <tr>
             <td>
-                <img src='https://github.com/ameybhole/ameybhole.github.io/blob/master/assets/img/ml_project.png' width="100%">
+                <img src='https://github.com/ameybhole/ameybhole.github.io/blob/master/assets/img/ml_project.png' width="75%">
             </td>
             <td valign="middle" width="75%">
               <a href="https://github.com/ameybhole/CAIIHC">
