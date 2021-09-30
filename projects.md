@@ -2,6 +2,33 @@
 layout: page
 title: Projects
 ---
+<head>
+  <style>
+    table,th,td
+    {
+      border:2px solid black;
+    }
+    table
+    {
+      border-collapse:collapse;
+      width:20%;
+    }
+<!--     td
+    {
+      height:40px;
+    }
+    tr
+    {
+      background-color:green;
+      color:white;
+    }
+    th
+    {
+      background-color:yellow;
+      color:black;
+    } -->
+  </style>
+  </head>
 <table background-color: #000000 width="100%" align="center" border="0" cellspacing="0" cellpadding="0">
  <tr>
             <td>
