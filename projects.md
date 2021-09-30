@@ -80,4 +80,25 @@ title: Projects
               <p>Implemented a number of visualization algorithms to a fluid flow simulation - allowing the end user to interact and filter the visualization to their desired goal via a Graphical User Interface (GUI)</p>
             </td>
 </tr>
+     <tr>
+            <td>
+                <img src='https://raw.githubusercontent.com/ameybhole/ameybhole.github.io/master/assets/img/farmolution-high-level-design-solution.png' width="100%">
+            </td>
+            <td valign="middle" width="75%">
+              <a href="https://github.com/ameybhole/ameybhole.github.io/blob/master/docs/Software_Architecture___SmartFarming.pdf">
+                <papertitle>Farmvolution</papertitle>
+              </a>
+              <br>
+              <strong>Amey Bhole</strong>,
+              <a>Andrei Cusnir</a>,
+              <a>Remco van Buijtenen</a>,
+              <a>Stefan Evanghelides</a>,
+              <a>Thorsten Rangnau</a>
+              <br>
+              <em>Software Architecture Project</em>, 2019         
+              <br>
+              <a href="https://github.com/ameybhole/ameybhole.github.io/blob/master/docs/Software_Architecture___SmartFarming.pdf">pdf</a>
+              <p>Design and development of smart systems for livestock production and management</p>
+            </td>
+</tr>
 </table>
