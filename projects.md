@@ -54,12 +54,30 @@ title: Projects
               <br>
               <strong>Amey Bhole</strong>,
               <a>Marios Lykiardopoulos</a>,
-              <a>Orestis Divintari</a>,
+              <a>Orestis Divintari</a>
               <br>
               <em>Scalable Computing Project</em>, 2018         
               <br>
               <a href="https://github.com/ameybhole/Predicting-hospital-readmission">code</a>
               <p>Developed a scalable model for music recommendation system using combination of alternating least squares algorithm and global baseline approach</p>
+            </td>
+</tr>
+    <tr>
+            <td>
+                <img src='https://raw.githubusercontent.com/ameybhole/ameybhole.github.io/master/assets/img/image002.jpg' width="100%">
+            </td>
+            <td valign="middle" width="75%">
+              <a href="https://github.com/ameybhole/Scientific_Visualization">
+                <papertitle>Real-Time Smoke Simulation and Visualization</papertitle>
+              </a>
+              <br>
+              <strong>Amey Bhole</strong>,
+              <a>Steven Farrugia</a>
+              <br>
+              <em>Scientific Visualization Project</em>, 2019         
+              <br>
+              <a href="https://github.com/ameybhole/Scientific_Visualization">code</a>
+              <p>Implemented a number of visualization algorithms to a fluid flow simulation - allowing the end user to interact and filter the visualization to their desired goal via a Graphical User Interface (GUI)</p>
             </td>
 </tr>
 </table>
