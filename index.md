@@ -10,4 +10,4 @@ I am a Data Scientist/Software Engineer at <a target="_blank" href="https://phyt
 </p>
 </div>
 
-## News
+## Updates
