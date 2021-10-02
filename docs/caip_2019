@@ -1,0 +1,8 @@
+@inproceedings{bhole2019computer,
+  title={A computer vision pipeline that uses thermal and rgb images for the recognition of holstein cattle},
+  author={Bhole, Amey and Falzon, Owen and Biehl, Michael and Azzopardi, George},
+  booktitle={International Conference on Computer Analysis of Images and Patterns},
+  pages={108--119},
+  year={2019},
+  organization={Springer}
+}
