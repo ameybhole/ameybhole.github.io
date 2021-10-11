@@ -44,7 +44,6 @@ title: Projects
               <p>Design and development of smart systems for livestock production and management</p>
             </td>
 </tr>
-</tr>
      <tr>
             <td>
                 <img src='https://raw.githubusercontent.com/ameybhole/IIHC/master/System_overview.jpg' width="100%">
