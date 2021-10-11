@@ -63,7 +63,6 @@ title: Projects
               <br>
               <p>Supervisors: Dr. George Azzopardi and Prof. Dr. Michael Biehl</p>
               <p>Developed a novel computer vision system for individual identification of Holstein cattle in farms based on coat patterns</p>
-              <br>
             </td>
 </tr>
  <tr>
