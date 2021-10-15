@@ -58,7 +58,7 @@ title: Projects
               <em>Research Internship Project</em>, 2018        
               <br>
               <a href="https://github.com/ameybhole/IIHC">code</a> /
-              <a href="https://fse.studenttheses.ub.rug.nl/18873/">pdf</a> /
+              <a href="https://fse.studenttheses.ub.rug.nl/18873/">pdf</a>
               <br>
               <p>Supervisors: Dr. George Azzopardi and Prof. Dr. Michael Biehl</p>
               <p>Developed a novel computer vision system for individual identification of Holstein cattle in farms based on coat patterns</p>
