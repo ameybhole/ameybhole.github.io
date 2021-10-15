@@ -9,7 +9,7 @@ International Conference on Computer Analysis of Images and Patterns (2019) <spa
   
 <a class="btn btn-primary btn-outline btn-xs" href="https://link.springer.com/chapter/10.1007/978-3-030-29891-3_10" target="_blank" rel="noopener">PDF</a>
 <a class="btn btn-primary btn-outline btn-xs" href="https://github.com/ameybhole/IIHC" target="_blank" rel="noopener">Code</a>
-<a class="btn btn-primary btn-outline btn-xs" href="https://raw.githubusercontent.com/ameybhole/ameybhole.github.io/docs/CAIP2019_Poster_Final" target="_blank">Poster</a>
+<a class="btn btn-primary btn-outline btn-xs" href="https://github.com/ameybhole/ameybhole.github.io/blob/master/docs/CAIP2019_Poster_Final.pdf" target="_blank">Poster</a>
 <a class="btn btn-primary btn-outline btn-xs" href="https://raw.githubusercontent.com/ameybhole/ameybhole.github.io/master/docs/caip_2019" target="_blank" rel="noopener">BibTeX</a>
 
 <a href="https://www.rug.nl/research/portal/publications/automatic-identification-of-holstein-cattle-using-noninvasive-computer-vision-approach(f54af69c-96d2-4929-b401-4106dc91253e).html"><u>Automatic identification of Holstein cattle using non-invasive computer vision approach</u></a><br>
