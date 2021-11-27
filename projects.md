@@ -4,6 +4,25 @@ title: Projects
 ---
 
 <table width="100%" align="center" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td>
+                <img src='https://raw.githubusercontent.com/ameybhole/ameybhole.github.io/master/assets/img/CORFmap.jpg' width="100%">
+            </td>
+            <td valign="middle" width="75%">
+              <a href="">
+                <papertitle>CORF3D contour maps with application to Holstein cattle recognition from RGB and thermal images</papertitle>
+              </a>
+              <br>
+              <strong>Amey Bhole</strong>,
+              <br>
+              <em>Research Internship Project</em>, 2020        
+              <br>
+              <a href="https://github.com/ameybhole/CORF3D_HCR">code</a>
+              <br>
+              <p>Supervisors: Dr. George Azzopardi, Dr. Owen Falzon and Dr. Sandeep Udmale</p>
+              <p>Proposed a novel CORF3D feature set based on brain-inspired push-pull CORF model</p>
+            </td>
+</tr>
      <tr>
             <td>
                 <img src='https://raw.githubusercontent.com/ameybhole/ameybhole.github.io/master/assets/img/image002.jpg' width="100%">
