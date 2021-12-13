@@ -2,11 +2,11 @@
 layout: page
 title: Publications
 ---
-<a href=""><u>CORF3D contour maps with application to Holstein cattle recognition from RGB and thermal images</u></a><br>
+<a href="https://www.sciencedirect.com/science/article/pii/S0957417421016511?via=ihub"><u>CORF3D contour maps with application to Holstein cattle recognition from RGB and thermal images</u></a><br>
 <i><b>Amey Bhole</b>, Sandeep Udamle, Owen Falzon, George Azzopardi <br><i>
 Expert Systems with Applications (2021) <span style="display: inline-block; width:100px; line-height: 25px; color:white; font-family: Calibri, sans-serif; background-color:#FFA500; font-size: 55%;border-radius: 8px; text-align:center;"><b>JOURNAL</b></span><br>
   
-<a class="btn btn-primary btn-outline btn-xs" href="" target="_blank" rel="noopener">PDF</a>
+<a class="btn btn-primary btn-outline btn-xs" href="https://www.sciencedirect.com/science/article/pii/S0957417421016511?via=ihub" target="_blank" rel="noopener">PDF</a>
 <a class="btn btn-primary btn-outline btn-xs" href="https://github.com/ameybhole/CORF3D_HCR" target="_blank" rel="noopener">Code</a>
 <a class="btn btn-primary btn-outline btn-xs" href="" target="_blank" rel="noopener">BibTeX</a>
   
