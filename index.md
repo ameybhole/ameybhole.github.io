@@ -12,7 +12,7 @@ I am a Data Scientist/Software Engineer at <a target="_blank" href="https://phyt
 
 ## Updates
 
-- [15/11/21] Our paper [CORF3D contour maps with application to Holstein cattle recognition from RGB and thermal images]() got accepted at [Expert Systems with Applications](https://www.journals.elsevier.com/expert-systems-with-applications)
+- [28/11/21] Our paper [CORF3D contour maps with application to Holstein cattle recognition from RGB and thermal images](https://www.sciencedirect.com/science/article/pii/S0957417421016511?via=ihub) got accepted at [Expert Systems with Applications](https://www.journals.elsevier.com/expert-systems-with-applications)
 - [23/06/21] Our paper [A Deep Hybrid Approach For Hate Speech Analysis](https://link.springer.com/chapter/10.1007/978-3-030-89128-2_41) got accepted at [CAIP 2021](http://cyprusconferences.org/caip2021/)
 - [09/02/21] Started working as a Data Scientist/Software Engineer at [Phyt.Health](https://phyt.health/)
 - [01/04/20] Started research internship under the supervision of [George Azzopardi](http://www.cs.rug.nl/~george/) at the [Information Systems Lab](http://www.cs.rug.nl/infosys/)
