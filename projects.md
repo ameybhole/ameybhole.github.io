@@ -9,7 +9,7 @@ title: Projects
                 <img src='https://raw.githubusercontent.com/ameybhole/ameybhole.github.io/master/assets/img/CORFmap.jpg' width="100%">
             </td>
             <td valign="middle" width="75%">
-              <a href="">
+              <a href="https://www.sciencedirect.com/science/article/pii/S0957417421016511?via=ihub">
                 <papertitle>CORF3D contour maps with application to Holstein cattle recognition from RGB and thermal images</papertitle>
               </a>
               <br>
