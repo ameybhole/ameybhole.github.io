@@ -6,12 +6,13 @@ meta-title: About me
 <div id="aboutme-section">
 
 <p class="about-text">
-I am a Data Scientist/Software Engineer at <a target="_blank" href="https://phyt.health/"> Phyt.Health</a>. Previously, I completed my Master's degree in Computer Science with specialization in Data Science and System Complexity from <a target="_blank" href="https://www.rug.nl/masters/computing-science/?lang=en"> University of Groningen</a>, where I was advised by <a target="_blank" href="http://www.cs.rug.nl/~george/"> Dr. George Azzopardi</a>. My research interests include computer vision, machine learning, data science, brain-inspired algorithms and adversarial machine learning. I am particularly interested in understanding the vulnerability of existing models to natural noise and adversarial attacks. Moreover, I am keen on developing brain-inspired methods to enhance models confidence, explainability, and generalizability while making them robust to natural noise and adversarial attacks.
+Hi, I am a Data Engineer at <a target="_blank" href="https://dairydatawarehouse.com/"> Dairy Data Warehouse (DDW)</a>. Previously, I worked as a Data Scientist / Software Engineer at <a target="_blank" href="https://phyt.health/"> Phyt.Health</a>. I completed my Master's degree in Computer Science with specialization in Data Science and System Complexity from <a target="_blank" href="https://www.rug.nl/masters/computing-science/?lang=en"> University of Groningen</a>, where I was advised by <a target="_blank" href="http://www.cs.rug.nl/~george/"> Dr. George Azzopardi</a>. My research interests include computer vision, machine learning, data science, brain-inspired algorithms and adversarial machine learning. I am particularly interested in understanding the vulnerability of existing models to natural noise and adversarial attacks. Moreover, I am keen on developing brain-inspired methods to enhance models confidence, explainability, and generalizability while making them robust to natural noise and adversarial attacks.
 </p>
 </div>
 
 ## Updates
 
+- [01/06/22] Started working as a Data Engineer at [Dairy Data Warehouse (DDW)](https://dairydatawarehouse.com/)
 - [28/11/21] Our paper [CORF3D contour maps with application to Holstein cattle recognition from RGB and thermal images](https://www.sciencedirect.com/science/article/pii/S0957417421016511?via=ihub) got accepted at [Expert Systems with Applications](https://www.journals.elsevier.com/expert-systems-with-applications)
 - [23/06/21] Our paper [A Deep Hybrid Approach For Hate Speech Analysis](https://link.springer.com/chapter/10.1007/978-3-030-89128-2_41) got accepted at [CAIP 2021](http://cyprusconferences.org/caip2021/)
 - [09/02/21] Started working as a Data Scientist/Software Engineer at [Phyt.Health](https://phyt.health/)
