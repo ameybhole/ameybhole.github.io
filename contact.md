@@ -1,20 +1,20 @@
 <form accept-charset="UTF-8" action="https://formspree.io/f/mpzepooq" method="POST">
   <table style="border:none; border-collapse:collapse; cellspacing:0; cellpadding:0">
     <tr>
-      <td align="right">Name:</td>
-      <td align="left"><textarea name="text" id="message" cols="45" rows="1" tabindex="1"</td>
+      <td style="border:none" align="right">Name:</td>
+      <td style="border:none" align="left"><textarea name="text" id="message" cols="45" rows="1" tabindex="1"></textarea></td>
     </tr>
     <tr>
-      <td align="right">Email:</td>
-      <td  align="left"><textarea name="text" id="message" cols="45" rows="1" tabindex="2"></td>
+      <td style="border:none" align="right">Email:</td>
+      <td style="border:none" align="left"><textarea name="text" id="message" cols="45" rows="1" tabindex="2"></textarea></td>
     </tr>
     <tr>
-      <td align="right">Subject:</td>
-      <td align="left"><<textarea name="text" id="message" cols="45" rows="1" tabindex="3"></td>
+      <td style="border:none" align="right">Subject:</td>
+      <td style="border:none" align="left"><<textarea name="text" id="message" cols="45" rows="1" tabindex="3"></textarea></td>
     </tr>
      <tr>
-      <td align="right">Message:</td>
-      <td align="left"><textarea name="text" id="message" cols="45" rows="5" tabindex="4"></textarea></td>
+      <td style="border:none" align="right">Message:</td>
+      <td style="border:none" align="left"><textarea name="text" id="message" cols="45" rows="5" tabindex="4"></textarea></td>
     </tr>
   </table>
   <p>
