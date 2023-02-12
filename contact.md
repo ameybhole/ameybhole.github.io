@@ -1,16 +1,16 @@
 <form accept-charset="UTF-8" action="https://formspree.io/f/mpzepooq" method="POST">
-  <table  style="border:none; border-collapse:collapse; cellspacing:0; cellpadding:0" >
+  <table style="border:none; border-collapse:collapse; cellspacing:0; cellpadding:0">
     <tr>
       <td style="border:none" align="right">Name:</td>
-      <td style="border:none" align="left"><input type="text" name="name" /></td>
+      <td style="border:none" align="left"><textarea name="text" id="message" cols="45" rows="1" tabindex="1"</td>
     </tr>
     <tr>
       <td style="border:none" align="right">Email:</td>
-      <td style="border:none" align="left"><input type="text" name="email" /></td>
+      <td style="border:none" align="left"><textarea name="text" id="message" cols="45" rows="1" tabindex="2"></td>
     </tr>
     <tr>
       <td style="border:none" align="right">Subject:</td>
-      <td style="border:none" align="left"><input type="text" name="subject" /></td>
+      <td style="border:none" align="left"><<textarea name="text" id="message" cols="45" rows="1" tabindex="3"></td>
     </tr>
      <tr>
       <td style="border:none" align="right">Message:</td>
