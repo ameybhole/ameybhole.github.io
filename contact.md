@@ -1,4 +1,4 @@
-<form accept-charset="UTF-8" action="https://formspree.io/f/mpzepooq" method="POST">
+<form align="center" accept-charset="UTF-8" action="https://formspree.io/f/mpzepooq" method="POST">
   <label for="name">Name:</label>
   <input type="text" name="name" id="name" tabindex="1" />
   <br/>
