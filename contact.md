@@ -1,5 +1,5 @@
 <div id="contact">
-        <h2>Contact me</h2>
+        <h2>Get in Touch</h2>
         <div id="contact-form">
                 <form action="https://formspree.io/f/mpzepooq" method="POST">
                 <input type="hidden" name="_subject" value="Contact request from personal website" />
