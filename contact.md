@@ -1,5 +1,5 @@
 <form accept-charset="UTF-8" action="https://formspree.io/f/mpzepooq" method="POST">
-  <table>
+  <table  border="0" cellspacing="0" cellpadding="0">
     <tr>
       <td align="right">Name:</td>
       <td align="left"><input type="text" name="name" /></td>
@@ -15,10 +15,13 @@
      <tr>
       <td align="right">Message:</td>
       <td align="left"><input type="text" name="message" /></td>
+      <textarea name="message" cols="45" rows="5" tabindex="4"></textarea>
     </tr>
   </table>
-  <label for="submit"></label>
-  <input type="submit" name="submit" id="submit" value="Submit" tabindex="5" />
-  <label for="reset"></label>
-  <input type="reset" name="reset" id="reset" value="Clear" tabindex="6" />
+  <p>
+    <label for="submit"></label>
+    <input type="submit" name="submit" id="submit" value="Submit" tabindex="5" />
+    <label for="reset"></label>
+    <input type="reset" name="reset" id="reset" value="Clear" tabindex="6" />
+  </p>  
 </form>
