@@ -5,7 +5,7 @@ meta-title: About me
 ---
 <div id="aboutme-section">
 
-<p class="about-text">
+<p style='text-align: justify;' class="about-text" >
 Hi, I am a Data Engineer at <a target="_blank" href="https://dairydatawarehouse.com/"> Dairy Data Warehouse (DDW)</a>. I completed my Master's degree in Computer Science with specialization in Data Science and System Complexity from <a target="_blank" href="https://www.rug.nl/masters/computing-science/?lang=en"> University of Groningen</a>, where I was advised by <a target="_blank" href="http://www.cs.rug.nl/~george/"> Dr. George Azzopardi</a>. My research interests include computer vision, machine learning, data science, data engineering, brain-inspired algorithms and adversarial machine learning. I am particularly interested in understanding the vulnerability of existing models and develop methods to enhance models confidence, explainability, robustness and generalizability.
 </p>
 </div>
