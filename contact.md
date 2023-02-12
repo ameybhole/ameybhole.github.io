@@ -10,7 +10,7 @@
     </tr>
     <tr>
       <td style="border:none" align="right">Subject:</td>
-      <td style="border:none" align="left"><<textarea name="text" id="message" cols="45" rows="1" tabindex="3"></textarea></td>
+      <td style="border:none" align="left"><textarea name="text" id="message" cols="45" rows="1" tabindex="3"></textarea></td>
     </tr>
      <tr>
       <td style="border:none" align="right">Message:</td>
