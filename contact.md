@@ -14,7 +14,7 @@
     </tr>
      <tr>
       <td align="right">Message:</td>
-      <td align="left" colspan="45" rowspan="5"><input type="text" name="message" /></td>
+      <td align="left"><textarea name="text" id="message" cols="45" rows="5" tabindex="4"></textarea></td>
     </tr>
   </table>
   <p>
