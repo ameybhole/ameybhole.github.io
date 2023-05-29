@@ -6,12 +6,13 @@ meta-title: About me
 <div id="aboutme-section">
 
 <p style='text-align: justify;' class="about-text" >
-Hi, I am a Data Engineer at <a target="_blank" href="https://dairydatawarehouse.com/"> Dairy Data Warehouse (DDW)</a>. I completed my Master's degree in Computer Science with specialization in Data Science and System Complexity from <a target="_blank" href="https://www.rug.nl/masters/computing-science/?lang=en"> University of Groningen</a>, where I was advised by <a target="_blank" href="http://www.cs.rug.nl/~george/"> Dr. George Azzopardi</a>. My research interests include computer vision, machine learning, data science, data engineering, brain-inspired algorithms and adversarial machine learning. I am particularly interested in understanding the vulnerability of existing models and develop methods to enhance models confidence, explainability, robustness and generalizability.
+Hi, I am a Data Engineer at <a target="_blank" href="https://dairydatawarehouse.com/"> Dairy Data Warehouse (DDW)</a>. I completed my Master's degree in Computer Science with specialization in Data Science and System Complexity from <a target="_blank" href="https://www.rug.nl/masters/computing-science/?lang=en"> University of Groningen</a>, where I was advised by <a target="_blank" href="http://www.cs.rug.nl/~george/"> Dr. George Azzopardi</a>. My research interests include computer vision, machine learning, natural language processing, scalability, brain-inspired algorithms and adversarial machine learning. I am particularly interested in understanding the vulnerability of existing models and develop methods to enhance models confidence, scalability, explainability, robustness and generalizability.
 </p>
 </div>
 
 ## Updates
 
+- [29/07/22] Sucessfully completed interactive track and the course project of [NMA Computational Neuroscience](https://compneuro.neuromatch.io/tutorials/intro.html)[Certificate][https://github.com/ameybhole/ameybhole.github.io/blob/master/docs/NMA_certificate.pdf]
 - [01/06/22] Started working as a Data Engineer at [Dairy Data Warehouse (DDW)](https://dairydatawarehouse.com/)
 - [28/11/21] Our paper [CORF3D contour maps with application to Holstein cattle recognition from RGB and thermal images](https://www.sciencedirect.com/science/article/pii/S0957417421016511?via=ihub) got accepted at [Expert Systems with Applications](https://www.journals.elsevier.com/expert-systems-with-applications)
 - [23/06/21] Our paper [A Deep Hybrid Approach For Hate Speech Analysis](https://link.springer.com/chapter/10.1007/978-3-030-89128-2_41) got accepted at [CAIP 2021](http://cyprusconferences.org/caip2021/)
