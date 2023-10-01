@@ -11,8 +11,8 @@ Hi, I am a Data Engineer at <a target="_blank" href="https://dairydatawarehouse.
 </div>
 
 ## Updates
-
-- [29/07/22] Sucessfully completed interactive track and the course project of [NMA Computational Neuroscience](https://compneuro.neuromatch.io/tutorials/intro.html) - [Certificate](https://github.com/ameybhole/ameybhole.github.io/blob/master/docs/NMA_certificate.pdf)
+- [1/07/23] Reviewer at Journal [Scientific Reports](https://www.nature.com/srep/highlights/our-reviewers) July 2023 
+- [29/07/22] Successfully completed interactive track and the course project of [NMA Computational Neuroscience](https://compneuro.neuromatch.io/tutorials/intro.html) - [Certificate](https://github.com/ameybhole/ameybhole.github.io/blob/master/docs/NMA_certificate.pdf)
 - [01/06/22] Started working as a Data Engineer at [Dairy Data Warehouse (DDW)](https://dairydatawarehouse.com/)
 - [28/11/21] Our paper [CORF3D contour maps with application to Holstein cattle recognition from RGB and thermal images](https://www.sciencedirect.com/science/article/pii/S0957417421016511?via=ihub) got accepted at [Expert Systems with Applications](https://www.journals.elsevier.com/expert-systems-with-applications)
 - [23/06/21] Our paper [A Deep Hybrid Approach For Hate Speech Analysis](https://link.springer.com/chapter/10.1007/978-3-030-89128-2_41) got accepted at [CAIP 2021](http://cyprusconferences.org/caip2021/)
