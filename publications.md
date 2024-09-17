@@ -3,7 +3,7 @@ layout: page
 title: Publications
 ---
 <a href="https://link.springer.com/article/10.1007/s00521-024-10164-8"><u>Explainable multi-layer COSFIRE filters robust to corruptions and boundary attack with application to retina and palmprint biometrics</u></a><br>
-<i>Adrian Apap, <b>Amey Bhole</b>, Laura Fernández-Robles, Manuel Castejón-Limas and George Azzopardi<br><i>
+<i>Adrian Apap, <b>Amey Bhole</b>, Laura Fernández-Robles, Manuel Castejón-Limas, George Azzopardi<br><i>
 Neural Computing and Applications (2024) <span style="display: inline-block; width:100px; line-height: 25px; color:white; font-family: Calibri, sans-serif; background-color:#FFA500; font-size: 55%;border-radius: 8px; text-align:center;"><b>JOURNAL</b></span><br>
   
 <a class="btn btn-primary btn-outline btn-xs" href="https://link.springer.com/article/10.1007/s00521-024-10164-8" target="_blank" rel="noopener">PDF</a>
